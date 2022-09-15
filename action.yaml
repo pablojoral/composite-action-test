@@ -20,6 +20,6 @@ runs:
         java-version: "11"
         distribution: "adopt"
 
-    - name: Install Pod Dependencies
-      shell: bash
-      run: cd ./ios && pod install && cd ..
+    # - name: Install Pod Dependencies
+    #   shell: bash
+    #   run: cd ./ios && pod install && cd ..
