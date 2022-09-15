@@ -1,5 +1,6 @@
 name: "Setup Mobile"
 description: "sets for mobile"
+shell: bash
 runs:
   using: "composite"
   steps:
